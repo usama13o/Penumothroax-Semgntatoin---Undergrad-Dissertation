@@ -1,0 +1,30 @@
+Student name : usama zidan #
+id: 18025713		   #
+############################
+
+I have included the notebook files that i used for this project. They contian all the code used for training and viewing the results.
+The dataset has to be downloaded to view any results, it can downloaded at the followingn link:
+
+https://www.kaggle.com/iafoss/siimacr-pneumothorax-segmentation-data-256
+
+*make sure to specify the right path wherever indicated in the code
+
+### models
+
+Obviosly, am not expecting that you run the trainng process again and thus, I uploaded all trained models to one drive at the following link:
+
+https://uniofnottm-my.sharepoint.com/:f:/g/personal/khfy6uat_nottingham_ac_uk/Enx2k8NaOKlEkIdkeIvTWocBuLpLqr_LM5dFX5xkIRGKFQ?e=e75Tqr
+
+
+### files included are:
+
+'Getting_results_kernel' notebook can be used to load and run the models
+
+'make-pneumothorax-classifer-data' , 'make-pneumothorax-oneCase-data' these two are used to create 2 more datasets for classifier and one case model
+
+'pneumothorax fastai 5-fold U-Net 128x128 (1)' runs training for segmentation models
+
+'pneumothorax-classifier' runs training for classifier model
+
+**Folder 'python files' contains the raw python files in case there isn't access to juptyer environment
+*** Folder 'some results' contains some graphs that were exracted from the notebooks to show results of training
